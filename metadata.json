@@ -1,0 +1,5 @@
+{
+  "name": "AlgoMaster: Blind 75 Visualizer",
+  "description": "Interactive visualization of Blind 75 and Neetcode 150 algorithm patterns. Step through code and visuals to build intuition for DSA interviews.",
+  "requestFramePermissions": []
+}
